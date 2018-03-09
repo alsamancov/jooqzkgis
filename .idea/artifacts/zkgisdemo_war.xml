@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zkgisdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="zkdemo.war">
+      <element id="artifact" artifact-name="zkgisdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
